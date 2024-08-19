@@ -1,0 +1,81 @@
+* {
+  background-color: #fcfdff;
+  font-family: 'Gill Sans', sans-serif;
+}
+
+#header-img {
+  height: 30%;
+  width: 15%;
+}
+
+h1 {
+  text-align: center;
+  font-size: 5em;
+  color: #204d93;
+}
+
+h2 {
+  text-align: center;
+  font-size: 3em;
+  color: #e44c00;
+}
+
+h3 {
+  font-size: 1.5em;
+  padding: 15px;
+  text-align: center;
+}
+
+.container {
+  margin-top: 40px;
+  margin-right: 3px;
+  margin-bottom: 15px;
+  margin-left: 13em;
+  padding-right: 40px;
+  padding-bottom: 40px;
+  padding-left: 4em;
+  width: 800px;
+  height: 70px;
+  border: 2px solid #204d93;
+  border-radius: 5px;   
+}
+
+#more-duckduckgo-info {
+  padding: 30px;
+  height: 750px;
+  width: 100%;
+  background-color: #204d93;
+}
+
+#learn-about-duckduckgo {
+  background-color: #204d93;
+  color: #fff;
+  font-size: 2.4em;
+  text-align: left;
+}
+
+iframe {
+  display: flex;
+  width: 75%;
+  height: 80%;
+}
+
+li {
+  list-style-type: none;
+  background-color: #ffd200;
+  margin: 18px;
+  padding: 4px;
+  border-radius: 8px;
+  line-height: 2.5em;
+}
+
+#app-download-button {
+  color: black;
+  border: 2px solid #e44c00;
+  width: 18.4em;
+  margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
